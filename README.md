@@ -91,13 +91,5 @@ TypeScript, Next.js, and full-stack web development.
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirahmedmahin10&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanvir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmedmahin10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmedmahin10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
