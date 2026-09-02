@@ -23,7 +23,6 @@ TypeScript, Next.js, and full-stack web development.
 
 <ul>
   <li>🔭 Exploring <strong>Next.js</strong> and modern React development</li>
-  <li>🌐 Working on a <strong>Tourism Website</strong></li>
   <li>📚 Improving my <strong>TypeScript</strong> and full-stack development skills</li>
   <li>🛠️ Building projects to strengthen my frontend and backend knowledge</li>
   <li>💡 Learning and experimenting with new web technologies</li>
