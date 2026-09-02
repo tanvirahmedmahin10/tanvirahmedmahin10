@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./banner.png" alt="My Full Stack Developer Journey" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm TANVIR AHMED MAHIN</h1>
 <h3 align="center">A passionate Full Stack Developer in the making.</h3>
 
